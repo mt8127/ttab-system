@@ -1,0 +1,9 @@
+boot       				             /boot       emmc      defaults        defaults
+/dev/block/platform/mtk-msdc.0/by-name/cache         /cache      ext4      defaults        defaults
+/dev/block/platform/mtk-msdc.0/by-name/userdata      /data       ext4      defaults        defaults
+misc      				             /misc       emmc      defaults        defaults
+recovery  				             /recovery   emmc      defaults        defaults
+/dev/block/mmcblk0p21                                /sdcard     vfat      defaults        defaults
+/dev/block/platform/mtk-msdc.0/by-name/system        /system     ext4      defaults        defaults
+/dev/block/platform/mtk-msdc.0/by-name/custom        /custom     ext4      defaults        defaults
+
