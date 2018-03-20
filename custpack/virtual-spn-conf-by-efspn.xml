@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <virtualSpnOverridesByEfSpn version="1">
+  <virtualSpnOverride mccmncspn="21403JAZZTEL" name="JAZZTEL"/>
   <virtualSpnOverride mccmncspn="21407Movistar" name="Movistar"/>
   <virtualSpnOverride mccmncspn="50502YES OPTUS" name="YES OPTUS"/>
   <virtualSpnOverride mccmncspn="50502Virgin" name="Virgin"/>
