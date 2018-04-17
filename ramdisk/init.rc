@@ -295,6 +295,7 @@ on post-fs-data
     mkdir /data/app-lib 0771 system system
     mkdir /data/app 0771 system system
     mkdir /data/property 0700 root root
+    mkdir /data/tombstones 0771 system system
 
     # create dalvik-cache, so as to enforce our permissions
     mkdir /data/dalvik-cache 0771 root root
@@ -582,7 +583,7 @@ service media /system/bin/mediaserver
     user root ####
 #   google default ####
 #   user media    ####
-    group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm media sdcard_r system net_bt_stack ####
+    group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm media sdcard_r system net_bt_stack media_rw ####
 #   google default ####
 #   group audio camera inet net_bt net_bt_admin net_bw_acct drmrpc mediadrm ####
 

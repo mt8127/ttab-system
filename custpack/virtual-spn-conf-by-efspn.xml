@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <virtualSpnOverridesByEfSpn version="1">
+  <virtualSpnOverride mccmncspn="20810Virgin" name="Virgin"/>
+  <virtualSpnOverride mccmncspn="21406Hits" name="Hits"/>
+  <virtualSpnOverride mccmncspn="21403mobilR" name="mobilR"/>
+  <virtualSpnOverride mccmncspn="21404telecable" name="telecable"/>
+  <virtualSpnOverride mccmncspn="21404Yoigo" name="Yoigo"/>
+  <virtualSpnOverride mccmncspn="21406Lowi" name="Lowi"/>
+  <virtualSpnOverride mccmncspn="21403LCR" name="LCR"/>
+  <virtualSpnOverride mccmncspn="21403LlamaYA" name="LlamaYA"/>
+  <virtualSpnOverride mccmncspn="21403MovilDIA" name="MovilDIA"/>
+  <virtualSpnOverride mccmncspn="21403YOU Mobile" name="YOU Mobile"/>
+  <virtualSpnOverride mccmncspn="21432Tuenti" name="Tuenti"/>
+  <virtualSpnOverride mccmncspn="21403simyo" name="simyo"/>
+  <virtualSpnOverride mccmncspn="21403MASMovil" name="MASMovil"/>
+  <virtualSpnOverride mccmncspn="21405pepephone" name="pepephone"/>
+  <virtualSpnOverride mccmncspn="21405Tuenti" name="Tuenti"/>
   <virtualSpnOverride mccmncspn="21403JAZZTEL" name="JAZZTEL"/>
   <virtualSpnOverride mccmncspn="21407Movistar" name="Movistar"/>
   <virtualSpnOverride mccmncspn="50502YES OPTUS" name="YES OPTUS"/>
   <virtualSpnOverride mccmncspn="50502Virgin" name="Virgin"/>
-  <virtualSpnOverride mccmncspn="22201COOP ¡OBILE" name="COOP ¡OBILE"/>
+  <virtualSpnOverride mccmncspn="22201COOP Â¡OBILE" name="COOP Â¡OBILE"/>
   <virtualSpnOverride mccmncspn="22201Coop Mobile" name="Coop Mobile"/>
   <virtualSpnOverride mccmncspn="22201COOP" name="COOP"/>
   <virtualSpnOverride mccmncspn="26002heyah" name="heyah"/>
@@ -70,8 +85,8 @@
   <virtualSpnOverride mccmncspn="20826NRJ Mobile" name="NRJ Mobile"/>
   <virtualSpnOverride mccmncspn="20810Darty" name="Darty"/>
   <virtualSpnOverride mccmncspn="20815Free" name="Free"/>
-  <virtualSpnOverride mccmncspn="20810C le mobile" name="NRJ"/>
-  <virtualSpnOverride mccmncspn="20801C le mobile" name="NRJ Mobile"/>
+  <virtualSpnOverride mccmncspn="20810C le mobile" name="C le mobile"/>
+  <virtualSpnOverride mccmncspn="20801C le mobile" name="C le mobile"/>
   <virtualSpnOverride mccmncspn="20823Virgin" name="Virgin"/>
   <virtualSpnOverride mccmncspn="20801Virgin" name="Virgin"/>
   <virtualSpnOverride mccmncspn="20801Orange F" name="Orange F"/>

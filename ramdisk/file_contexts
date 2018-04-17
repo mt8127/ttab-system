@@ -633,7 +633,6 @@
 /system/xbin/BGW u:object_r:BGW_exec:s0
 /system/xbin/mnld u:object_r:mnld_exec:s0
 /system/bin/md_ctrl u:object_r:md_ctrl_exec:s0
-/system/bin/fotabinder u:object_r:fotabinder_exec:s0
 
 # Wallpaper file for smartbook
 /data/system/users/[0-9]+/smartbook_wallpaper	u:object_r:wallpaper_file:s0

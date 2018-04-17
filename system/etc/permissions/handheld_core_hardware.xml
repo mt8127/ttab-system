@@ -53,7 +53,7 @@
 
     <!-- [BUGFIX]-Mod-BEGIN by SCDTABLET.(lilin.liu@jrdcom.com), PR1028910 06/23/2015 -->
     <!-- Feature to specify if the device support managed users. -->
-    <!-- <feature name="android.software.managed_users" /> -->
+    <feature name="android.software.managed_users" />
     <!-- [BUGFIX]-Mod-END by SCDTABLET.(lilin.liu@jrdcom.com), PR1028910 -->
 
     <!-- [BUGFIX]-Add-BEGIN by SCDTABLET.(lilin.liu@jrdcom.com), PR990913 04/30/2015 -->
